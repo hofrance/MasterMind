@@ -1,0 +1,2 @@
+def fonction():
+    print("bonjour")
